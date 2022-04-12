@@ -43,8 +43,10 @@ public class GeoService extends HttpServlet {
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 * 
-	 * Teste:
-	 * 
+	 * Teste USP to UFRJ: http://localhost:8080/OM-GEO/geoservice?latitude1=-23.559444444444&\
+longitude1=-46.723888888889&latitude2=-22.8625&longitude2=-43.2239
+	 * Teste Taj+Mahal to Christ+the+Redeemer : http://localhost:8080/OM-GEO/geoservice?latitude1=27.1751448&\
+longitude1=78.0399535&latitude2=-22.951916&longitude2=-43.2126759
 	 * 
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
