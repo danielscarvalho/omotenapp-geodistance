@@ -1,6 +1,6 @@
 # omotenapp-geodistance
 
-Calcula geo distance entre dois pontos (lat, lon) sem consumir WEB API externa
+Calcula geo distance entre dois pontos (lat, lon) em linha reta sem consumir WEB API externa
 
 ### Teste local:
 
