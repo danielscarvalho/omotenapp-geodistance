@@ -1,4 +1,4 @@
-package om.geo;
+package om.geo.model;
 
 import java.util.Objects;
 

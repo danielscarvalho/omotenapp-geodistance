@@ -1,4 +1,6 @@
-package om.geo;
+package om.geo.controller;
+
+import om.geo.model.GeoPoint;
 
 //Reference: https://www.movable-type.co.uk/scripts/latlong.html
 

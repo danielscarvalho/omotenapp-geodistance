@@ -8,8 +8,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import om.geo.Geo;
-import om.geo.GeoPoint;
+import om.geo.controller.Geo;
+import om.geo.model.GeoPoint;
 
 /**
  * Servlet implementation class GeoService
